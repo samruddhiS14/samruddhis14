@@ -52,7 +52,7 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 ### GitHub Activity Tracker
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhis14&theme=react-dark&hide_border=true&area=true" width="100%" alt="Samruddhi's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/216e39/samruddhis14" alt="Samruddhi's Contribution Graph" width="100%" />
 </p>
 
 ---
