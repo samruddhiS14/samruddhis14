@@ -35,7 +35,7 @@ I'm a 2nd-year CSE student who loves diving into low-level backend engineering, 
 | **Backend & Core** | Object-Oriented Design, In-Memory Storage, REST APIs, FastAPI |
 | **AI & Vision** | YOLO (Ultralytics), OpenCV |
 | **Databases** | SQLite, PostgreSQL, Redis internals |
-| **Tools & OS** | Git, GitHub, VS Code, macOS / Linux Terminal |
+| **Tools & OS** | Git, GitHub, VS Code, macOS Terminal |
 
 ---
 
