@@ -1,71 +1,62 @@
-# Hi there, I'm Samruddhi! 👋
+# Hey, I'm Samruddhi! 👋
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=samruddhis14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Year-2nd%20Year%20B.Tech%20CSE-blueviolet" alt="2nd Year CSE" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering%20%7C%20Systems-brightgreen" alt="Focus" />
+  <img src="https://img.shields.io/badge/2nd%20Year-B.Tech%20CSE-blueviolet" alt="2nd Year CSE" />
+  <img src="https://img.shields.io/badge/Building-Systems%20%26%20Backend-brightgreen" alt="Focus" />
 </p>
 
-I am a **2nd-year Computer Science & Engineering student** dedicated to **systems programming**, **backend engineering**, and **applied intelligence**. I spend most of my engineering time writing clean, structured code in **Java**, **C++**, and **Python**, building custom databases/caching layers from scratch, and solving algorithmic challenges.
+I'm a 2nd-year CSE student who loves diving into low-level backend engineering, systems programming, and building practical AI tools. Most of my days are spent writing **Java**, **C++**, and **Python**, understanding how things work under the hood, and building things from the ground up rather than just relying on high-level abstractions.
 
 ---
 
-## ⚡ Current Focus & Engineering Disciplines
+### 📌 Current Focus & What I'm Doing
 
-* 🧱 **Storage Systems & Protocol Internals**: Implementing in-memory caching mechanisms, custom data structures, and protocol parsing in Java.
-* ☕ **Object-Oriented Backend Architecture**: Writing enterprise-ready, modular application logic and REST services.
-* 👁️ **Computer Vision & Intelligence**: Integrating real-time detection models (YOLO) and pipeline automation into backend services.
-* 🎯 **15-Day Engineering Sprints**: Actively executing structured 15-day technical challenges to build and complete one major project/repository per sprint.
+* 🛠️ **Systems & Internals**: Digging into storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
+* ⚙️ **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
+* 👁️ **Computer Vision**: Integrating real-time detection models (YOLO) with backend services for civic tech solutions.
+* 🎯 **15-Day Build Challenges**: Pushing myself to complete focused, end-to-end engineering projects on a strict 15-day sprint cycle.
 
 ---
 
-## 🚀 Active 15-Day Sprint Tracker
+### ⏱️ 15-Day Sprint Tracker
 
-| Sprint # | Project / Repo | Stack | Kickoff Date | Status | Focus & Deliverable |
+| Sprint | Project | Language / Tools | Started On | Status | What I'm Building |
 | :---: | :--- | :--- | :---: | :---: | :--- |
-| **01** | [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` / Systems | **Aug 31** | 🟡 **In Progress** | Building an in-memory key-value store from scratch (RESP protocol parsing, storage primitives, command execution, and TTL expiry). |
+| **#01** | [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | **Aug 31** | 🟡 Building | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
 
 ---
 
-## 🛠️ Technical Stack & Toolbox
+### 💻 Tech Stack & Tools
 
-| Category | Technologies & Tools |
+| Area | Technologies |
 | :--- | :--- |
-| **Primary Languages** | `Java`, `C++`, `Python`, `SQL`, `Bash` |
-| **Systems & Backend** | In-Memory Storage Engines, RESP Protocol, FastAPI, RESTful APIs, OOP |
-| **AI & Vision** | Ultralytics YOLO, OpenCV, PyTorch basics |
-| **Databases & Storage** | SQLite, PostgreSQL, Redis protocol concepts |
-| **DevOps & Workflow** | Git, GitHub, VS Code, Linux/macOS CLI |
+| **Languages** | Java, C++, Python, SQL, Bash |
+| **Backend & Core** | Object-Oriented Design, In-Memory Storage, REST APIs, FastAPI |
+| **AI & Vision** | YOLO (Ultralytics), OpenCV |
+| **Databases** | SQLite, PostgreSQL, Redis internals |
+| **Tools & OS** | Git, GitHub, VS Code, macOS / Linux Terminal |
 
 ---
 
-## 🏆 Featured Projects
+### 📂 Featured Projects
 
-| Project | Stack | Highlights & Description |
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| **my-redis (In-Memory Key-Value Store)** | `Java` / `Systems` | Custom in-memory storage engine built from scratch. Implements RESP protocol parsing, key-value storage primitives, TTL expiration mechanics, and efficient memory structures. |
-| **Teerth Mitra** | `Python` / `Backend` | Comprehensive spiritual & cultural travel utility platform. Designed to manage itinerary routing, point-of-interest discovery, and resource mapping for pilgrims and travelers. |
-| **CivicPulse Vision** | `Python`, `FastAPI`, `YOLO` | Real-time civic anomaly and issue detection pipeline. Combines computer vision inference with a structured FastAPI backend to automate urban monitoring and reporting. |
+| **my-redis** | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
+| **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
+| **CivicPulse Vision** | `Python`, `FastAPI`, `YOLO` | An automated civic issue detection pipeline that flags anomalies via computer vision models and exposes structured endpoints via FastAPI. |
 
 ---
 
-## 📊 GitHub Analytics
+### 📬 Get in Touch
+
+* **LinkedIn**: [linkedin.com/in/samruddhi-shinde14](https://www.linkedin.com/in/samruddhi-shinde14/)
+* **Email**: [samruddhishinde2519@gmail.com](mailto:samruddhishinde2519@gmail.com)
+* **GitHub**: [@samruddhis14](https://github.com/samruddhis14)
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samruddhis14&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhis14&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages" />
+  <i>"Building systems from scratch, writing clean code, and shipping projects consistently."</i>
 </p>
-
----
-
-## 🤝 Let's Connect
-
-| Platform | Handle / Link |
-| :--- | :--- |
-| **GitHub** | [@samruddhis14](https://github.com/samruddhis14) |
-| **LinkedIn** | [linkedin.com/in/samruddhi-shinde14](https://www.linkedin.com/in/samruddhi-shinde14/) |
-| **Email** | [samruddhishinde2519@gmail.com](mailto:samruddhishinde2519@gmail.com) |
-
-<br />
-
-> *"Compiling low-level performance with robust backend architectures — one commit at a time."*
