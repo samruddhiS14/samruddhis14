@@ -1,4 +1,4 @@
-# Hey, I'm Samruddhi! 👋
+# Hey, I'm Samruddhi! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=samruddhis14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,16 +10,16 @@ I'm a 2nd-year CSE student who loves diving into low-level backend engineering, 
 
 ---
 
-### 📌 Current Focus & What I'm Doing
+###  Current Focus & What I'm Doing
 
-* 🛠️ **Systems & Internals**: Digging into storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
-* ⚙️ **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
-* 👁️ **Computer Vision**: Integrating real-time detection models (YOLO) with backend services for civic tech solutions.
-* 🎯 **15-Day Build Challenges**: Pushing myself to complete focused, end-to-end engineering projects on a strict 15-day sprint cycle.
+*  **Systems & Internals**: Digging into storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
+*  **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
+*  **Computer Vision**: Integrating real-time detection models (YOLO) with backend services for civic tech solutions.
+*  **15-Day Build Challenges**: Pushing myself to complete focused, end-to-end engineering projects on a strict 15-day sprint cycle.
 
 ---
 
-### ⏱️ 15-Day Sprint Tracker
+###  15-Day Sprint Tracker
 
 | Sprint | Project | Language / Tools | Started On | Status | What I'm Building |
 | :---: | :--- | :--- | :---: | :---: | :--- |
@@ -27,7 +27,7 @@ I'm a 2nd-year CSE student who loves diving into low-level backend engineering, 
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 
 | Area | Technologies |
 | :--- | :--- |
@@ -35,11 +35,11 @@ I'm a 2nd-year CSE student who loves diving into low-level backend engineering, 
 | **Backend & Core** | Object-Oriented Design, In-Memory Storage, REST APIs, FastAPI |
 | **AI & Vision** | YOLO (Ultralytics), OpenCV |
 | **Databases** | SQLite, PostgreSQL, Redis internals |
-| **Tools & OS** | Git, GitHub, VS Code, macOS Terminal |
+| **Tools & OS** | Git, GitHub, VS Code, macOS / Linux Terminal |
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ I'm a 2nd-year CSE student who loves diving into low-level backend engineering, 
 
 ---
 
-### 📬 Get in Touch
+###  Get in Touch
 
 * **LinkedIn**: [linkedin.com/in/samruddhi-shinde14](https://www.linkedin.com/in/samruddhi-shinde14/)
 * **Email**: [samruddhishinde2519@gmail.com](mailto:samruddhishinde2519@gmail.com)
