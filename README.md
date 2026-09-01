@@ -49,10 +49,10 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 ---
 
-### GitHub Activity Tracker
+### GitHub Streak Tracker
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/216e39/samruddhis14" alt="Samruddhi's Contribution Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=samruddhis14&theme=react-dark&hide_border=true&border_radius=8" width="85%" alt="GitHub Streak Stats" />
 </p>
 
 ---
