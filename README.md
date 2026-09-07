@@ -44,9 +44,8 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **my-redis** | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
-| **Nexus-Six** | `Python`, `FastAPI`, `YOLO` | An intelligent civic-tech engine (built on the CivicPulse AI vision) featuring automated defect detection, complaint geolocation, severity scoring, and smart routing pipelines. |
+| **Nexus-Six** | `Python`, `FastAPI`, `YOLO` | An intelligent civic-tech engine featuring real-time visual defect detection, automated geolocation, severity scoring, and structured reporting endpoints. |
 | **Van-Nyaya** | `Python`, `FastAPI` | A civic-tech legal resource and workflow platform designed to streamline forest rights adjudication, claims processing, and community documentation. |
-| **CivicPulse Vision** | `Python`, `FastAPI`, `YOLO` | An automated civic issue detection pipeline that flags anomalies via computer vision models and exposes structured endpoints via FastAPI. |
 | **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
 
 ---
