@@ -14,7 +14,7 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 * **Systems & Internals**: Understanding storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
 * **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
-* **Computer Vision**: Integrating real-time detection models (YOLO) with backend services for civic tech solutions.
+* **Computer Vision & Civic Tech**: Integrating real-time detection models (YOLO) and backend workflows to solve civic and legal problems.
 * **15-Day Build Challenges**: Committing to focused, end-to-end engineering sprints to build and ship complete projects consistently.
 
 ---
@@ -44,8 +44,9 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | **my-redis** | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
-| **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
+| **Van-Nyaya** | `Python`, `FastAPI` | A civic-tech legal resource and workflow tool designed to simplify forest rights adjudication and community land claim records. |
 | **CivicPulse Vision** | `Python`, `FastAPI`, `YOLO` | An automated civic issue detection pipeline that flags anomalies via computer vision models and exposes structured endpoints via FastAPI. |
+| **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
 
 ---
 
