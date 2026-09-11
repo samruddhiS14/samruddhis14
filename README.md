@@ -12,10 +12,10 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 ### Current Focus & Disciplines
 
-* **Systems & Internals**: Understanding storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
+* **Systems & Internals**: Understanding storage engines, cache implementations, and network protocols (building concurrent, low-level architecture from scratch).
 * **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
 * **Computer Vision & Civic Tech**: Integrating real-time detection models (YOLO) and backend workflows for automated issue reporting and civic oversight.
-* **15-Day Build Challenges**: Committing to focused, end-to-end engineering sprints to build and ship complete projects consistently.
+* **Engineering Sprints**: Committing to focused, end-to-end development cycles to build and ship complete projects consistently.
 
 ---
 
@@ -23,7 +23,7 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 | Project | Stack | Timeline / Duration | Started On | Status | What I'm Building |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | 15-Day Sprint | **Aug 31** | In Progress | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
+| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | 15-Day Sprint | **Aug 31** | Completed | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
 
 ---
 
@@ -43,9 +43,32 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **my-redis** | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
+| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
 | **Nexus-Six** | `Python`, `FastAPI`, `YOLO` | An intelligent civic-tech engine featuring real-time visual defect detection, automated geolocation, severity scoring, and structured reporting endpoints. |
 | **Van-Nyaya** | `Python`, `FastAPI` | A civic-tech legal resource and workflow platform designed to streamline forest rights adjudication, claims processing, and community documentation. |
+| **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
+
+---
+
+### GitHub Streak Tracker
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samruddhis14&theme=react-dark&hide_border=true&border_radius=8" width="85%" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### Get in Touch
+
+* **LinkedIn**: [linkedin.com/in/samruddhi-shinde14](https://www.linkedin.com/in/samruddhi-shinde14/)
+* **Email**: [samruddhishinde2519@gmail.com](mailto:samruddhishinde2519@gmail.com)
+* **GitHub**: [@samruddhis14](https://github.com/samruddhis14)
+
+---
+
+<p align="center">
+  <i>"Building systems from scratch, writing clean code, and shipping projects consistently."</i>
+</p>| **Van-Nyaya** | `Python`, `FastAPI` | A civic-tech legal resource and workflow platform designed to streamline forest rights adjudication, claims processing, and community documentation. |
 | **Teerth Mitra** | `Python` | A travel and pilgrimage platform focused on clean itinerary routing, location discovery, and resource mapping for travelers. |
 
 ---
