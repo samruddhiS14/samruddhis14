@@ -19,11 +19,11 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 ---
 
-### 15-Day Sprint Tracker
+### Ongoing Projects & Timeline
 
-| Sprint | Project | Language / Tools | Started On | Status | What I'm Building |
-| :---: | :--- | :--- | :---: | :---: | :--- |
-| **#01** | [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | **Aug 31** | In Progress | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
+| Project | Stack | Timeline / Duration | Started On | Status | What I'm Building |
+| :--- | :--- | :--- | :---: | :---: | :--- |
+| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | 15-Day Sprint | **Aug 31** | In Progress | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
 
 ---
 
