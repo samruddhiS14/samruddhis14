@@ -12,18 +12,19 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 ### Current Focus & Disciplines
 
-* **Systems & Internals**: Understanding storage engines, cache implementations, and network protocols (currently building a Redis clone in Java).
+* **Systems & Internals**: Understanding storage engines, cache implementations, and network protocols (built a Redis clone in Java).
 * **Backend Engineering**: Writing clean, modular OOP code, designing relational schemas, and building REST APIs.
 * **Computer Vision & Civic Tech**: Integrating real-time detection models (YOLO) and backend workflows for automated issue reporting and civic oversight.
-* **15-Day Build Challenges**: Committing to focused, end-to-end engineering sprints to build and ship complete projects consistently.
+* **15-Day & Sprint Build Challenges**: Committing to focused, end-to-end engineering sprints to build and ship complete projects consistently.
 
 ---
 
 ### Ongoing Projects & Timeline
 
-| Project | Stack | Timeline / Duration | Started On | Status | What I'm Building |
+| Project | Stack | Timeline / Duration | Started On | Status | What I Built / Building |
 | :--- | :--- | :--- | :---: | :---: | :--- |
-| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | 15-Day Sprint | **Aug 31** | In Progress | Writing an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
+| [`my-redis`](https://github.com/samruddhis14/my-redis) | `Java` | 15-Day Sprint | **Aug 31** | **Completed** | Built an in-memory key-value store from scratch: handling raw RESP serialization/deserialization, core command execution (`GET`, `SET`, `PING`), and TTL expiration logic. |
+| **Vatsalya** | `Java (Spring Boot)`, `React/Vite`, `PostgreSQL` | 5-Day Sprint | **Sep 14** | **Completed** | Full-stack animal rescue and triage platform featuring case reporting workflows, real-time status updates, and robust PostgreSQL integration. |
 
 ---
 
@@ -32,7 +33,7 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Java, C++, Python, SQL, Bash |
-| **Backend & Core** | Object-Oriented Design, In-Memory Storage, REST APIs, FastAPI |
+| **Backend & Core** | Object-Oriented Design, In-Memory Storage, Spring Boot, REST APIs, FastAPI |
 | **AI & Vision** | YOLO (Ultralytics), OpenCV, Machine Learning |
 | **Databases** | SQLite, PostgreSQL, Redis internals |
 | **Tools & Environment** | Git, GitHub, VS Code, macOS Terminal |
@@ -43,6 +44,7 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| **Vatsalya** | `Spring Boot`, `React/Vite`, `PostgreSQL` | A complete animal rescue coordination dashboard built to manage emergency intake, triage severity, and case status tracking. |
 | **my-redis** | `Java` | An in-memory key-value cache built from scratch to explore socket programming, RESP protocol parsing, and key eviction strategies. |
 | **Nexus-Six** | `Python`, `FastAPI`, `YOLO` | An intelligent civic-tech engine featuring real-time visual defect detection, automated geolocation, severity scoring, and structured reporting endpoints. |
 | **Van-Nyaya** | `Python`, `FastAPI` | A civic-tech legal resource and workflow platform designed to streamline forest rights adjudication, claims processing, and community documentation. |
