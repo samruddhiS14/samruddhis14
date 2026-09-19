@@ -1,4 +1,4 @@
-# Hey, I'm Samruddhi!
+# Hey, I'm Samruddhi Shinde!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=samruddhis14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
