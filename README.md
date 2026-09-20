@@ -55,9 +55,8 @@ I'm a 2nd-year CSE student focused on low-level backend engineering, systems pro
 ### GitHub Streak Tracker
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samruddhis14&theme=react-dark&hide_border=true&border_radius=8" width="85%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=samruddhis14&theme=react-dark&hide_border=true&border_radius=8&timezone=Asia/Kolkata&v=2" width="85%" alt="GitHub Streak Stats" />
 </p>
-
 ---
 
 ### Get in Touch
